@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/morris2582/lab07/_apis/build/status/MorrisLin-TW.calculator?branchName=master)](https://dev.azure.com/morris2582/lab07/_build/latest?definitionId=4&branchName=master)
